@@ -7,9 +7,11 @@
 
 
 ## Usage
+`yarn install`
+
 `yarn start`
 
- \※ You need to install yarn and Python(Anaconda) beforehand.
+ \* You need to install yarn and Python(Anaconda) beforehand.
 
 
 ## [Licence: AGPL-3.0](/LICENSE)
