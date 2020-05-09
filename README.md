@@ -1,4 +1,4 @@
-# Ellvator_Japanese
+# Ellvator_English
  Ellvator is a Web browser with built-in metasearch engine called Ellpedia. 
 
 
