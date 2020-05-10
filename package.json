@@ -41,6 +41,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "request-promise": "^4.2.5",
+    "url-regex": "^5.0.0",
     "valid-url": "^1.0.9"
   }
 }
