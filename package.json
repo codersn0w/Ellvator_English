@@ -25,8 +25,7 @@
     "start": "electron example/main.js"
   },
   "dependencies": {
-    "electron-log": "^3.0.7",
-    "minimist": "1.2.5"
+    "electron-log": "^3.0.7"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
@@ -38,6 +37,7 @@
     "electron": "8.2.5",
     "electron-packager": "^14.2.1",
     "file-url": "^2.0.2",
+    "minimist": "1.2.5",
     "python-shell": "^2.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
